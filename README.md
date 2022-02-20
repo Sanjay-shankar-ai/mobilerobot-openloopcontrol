@@ -11,23 +11,22 @@ To develop a python control code to move the mobilerobot along the predefined pa
 
 Step1:
 
-<br/>
+switch on the robot
 
 Step2:
 
-<br/>
+create the pattern
 
 Step3:
 
-<br/>
+run the code 
 
 Step4:
 
-<br/>
+shoot the video with vs code
 
 Step5:
 
-<br/>
 
 ## Program
 ```python
